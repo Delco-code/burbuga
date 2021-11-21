@@ -1,3 +1,10 @@
+#b_switch {
+    margin: auto;
+    width: max-content;
+    display: block;
+    float: right;
+}
+
 .switch {
   position: relative;
   display: inline-block;
