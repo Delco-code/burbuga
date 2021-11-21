@@ -29,19 +29,16 @@
   -webkit-transition: .4s;
   transition: .4s;
 }
-
-.slider::before {
-
+..slider::before {
     position: absolute;
     content: "";
-    height: 15px;
-    width: 15px;
-    left: 10px;
-    bottom: 4px;
+    height: 10px;
+    width: 25%;
+    left: 2px;
+    bottom: 5px;
     background-color: white;
     -webkit-transition: .4s;
     transition: .4s;
-
 }
 
 input:checked + .slider {
