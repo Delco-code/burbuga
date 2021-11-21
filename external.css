@@ -80,28 +80,33 @@ html, body, .container {
 }
 
 .nav1 {
-  top: 86px;
+  top: 78px;
   left: 200px;
+  z-index: 100;
 }
 
 .nav2 {
-  top: 136px;
-  left: 337px;
+  top: 78px;
+  left: 272px;
+  z-index: 100;
 }
 
 .nav3 {
-  top: 186px;
-  left: 387px;
+  top: 150px;
+  left: 344px;
+  z-index: 100;
 }
 
 .nav4 {
-  top: 236px;
-  left: 337px;
+  top: 220px;
+  left: 344px;
+  z-index: 100;
 }
 
 .nav5 {
-  top: 286px;
+  top: 294px;
   left: 287px;
+  z-index: 100;
 }
 
 .small {
